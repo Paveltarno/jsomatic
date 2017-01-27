@@ -1,0 +1,16 @@
+{
+  "name": "jsomatic",
+  "version": "1.0.0",
+  "description": "A web based json editor and validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "paveltarno",
+  "license": "ISC",
+  "dependencies": {
+    "ace-builds": "^1.2.5",
+    "express": "^4.14.0"
+  }
+}
