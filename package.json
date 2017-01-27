@@ -12,5 +12,8 @@
   "dependencies": {
     "ace-builds": "^1.2.5",
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.0"
   }
 }
